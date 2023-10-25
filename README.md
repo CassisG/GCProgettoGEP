@@ -32,7 +32,7 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 - Il sistema deve essere in grado di gestire le diverse destinazioni di spedizione, sia nazionali che internazionali
 
 # Diagramma Use Case
-<html><img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),
+<img src="http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),
 [Utente]-(Visualizza Profilo),
 [Utente]-(Lista Prodotti Ordinati),
 [Utente]-(Il tuo Magazzino),
@@ -41,5 +41,5 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 [Utente]-(Spedisci),
 (Spedisci)>(Inserisci data e ora di arrivo),
 (Inserisci data e ora di arrivo)>(Scegli indirizzo),
-(Scegli indirizzo)>(Pagare Spedizione)"></html>
+(Scegli indirizzo)>(Pagare Spedizione)">
 
