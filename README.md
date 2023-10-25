@@ -1,5 +1,3 @@
-# GCProgettoGEP
-
 # ShippingZERO
 
 ShippingZERO è un servizio di logistica specializzato nelle consegne a domicilio, che agevola l'utente nella visualizzazione e nella gestione 
