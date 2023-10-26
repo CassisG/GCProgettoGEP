@@ -30,7 +30,7 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 - Il sistema deve essere in grado di gestire le diverse destinazioni di spedizione, sia nazionali che internazionali
 
 # Diagramma Use Case
-http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),
+![diagramma_uuml](http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),
 [Utente]-(Visualizza Profilo),
 [Utente]-(Lista Prodotti Ordinati),
 [Utente]-(Il tuo Magazzino),
@@ -39,5 +39,5 @@ http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),
 [Utente]-(Spedisci),
 (Spedisci)>(Inserisci data e ora di arrivo),
 (Inserisci data e ora di arrivo)>(Scegli indirizzo),
-(Scegli indirizzo)>(Pagare Spedizione)
+(Scegli indirizzo)>(Pagare Spedizione))
 
