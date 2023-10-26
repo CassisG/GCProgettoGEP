@@ -33,7 +33,7 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 **Diagramma Casi d'Uso**
 
 ![diagramma_uml](http://yuml.me/diagram/scruffy/usecase/
-  (
+(
   [Utente]-(Accesso),
   [Utente]-(Lista Ordini in Arrivo),
   [Utente]-(Cronologia Ordini),
