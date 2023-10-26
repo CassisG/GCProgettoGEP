@@ -17,6 +17,7 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 - Il sistema deve garantire la sicurezza dei dati personali dell'utente
 - Il sistema deve consentire la tracciabilità della spedizione per l'utente
 - Il sistema deve essere disponibile 24/7 per gestire i propri prodotti in ogni momento
+- Il sistema deve rispettare le norme sulla privacy imposte dal GDPR
 
 **Requisiti di sistema:**
 - Il sistema deve essere accessibile tramite il sito o l'applicazione
