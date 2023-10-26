@@ -32,27 +32,5 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 
 **Diagramma Casi d'Uso**
 
-![diagramma_uml](http://yuml.me/diagram/scruffy/usecase/
-
-  [Utente]-(Accesso),
-  [Utente]-(Lista Ordini in Arrivo),
-  [Utente]-(Cronologia Ordini),
-  [Utente]-(Il tuo Magazzino),
-  [Utente]-(Spedisci),
-  [Operatore]-(Lista Ordini in Arrivo),
-  [Operatore]-(Cronologia Ordini),
-  [Operatore]-(Il tuo Magazzino),
-  [Operatore]-(Gestione spedizione),
-  (Il tuo Magazzino)<(Aggiungi Prodotto),
-  (Il tuo Magazzino)<(Rimuovi Prodotto),
-  (Spedisci)<(Acquisto da un e_commerce esterno),
-  (Aggiungi Prodotto)<(Acquisto da un e_commerce esterno),
-  [Utente]-(Acquisto da un e_commerce),
-  (Spedisci)>(Inserisci Informazioni per la consegna),
-  (Inserisci Informazioni per la consegna)>(Gestione spedizione),
-  (il tuo Magazzino)<(Spedisci),
-  [Utente]-(Inserisci Informazioni per la consegna),
-  [Utente]-(Aggiungi Prodotto),
-  [Utente]-(Rimuovi Prodotto)
-)
+![diagramma_uml](https://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),%20[Utente]-(Lista%20Ordini%20in%20Arrivo),%20[Utente]-(Cronologia%20Ordini),%20[Utente]-(Il%20tuo%20Magazzino),%20[Utente]-(Spedisci),%20[Operatore]-(Lista%20Ordini%20in%20Arrivo),%20[Operatore]-(Cronologia%20Ordini),%20[Operatore]-(Il%20tuo%20Magazzino),%20[Operatore]-(Gestione%20spedizione),%20(Il%20tuo%20Magazzino)%3C(Aggiungi%20Prodotto),%20(Il%20tuo%20Magazzino)%3C(Rimuovi%20Prodotto),%20(Spedisci)%3C(Acquisto%20da%20un%20e_commerce%20esterno),%20(Aggiungi%20Prodotto)%3C(Acquisto%20da%20un%20e_commerce%20esterno),%20[Utente]-(Acquisto%20da%20un%20e_commerce),%20(Spedisci)%3E(Inserisci%20Informazioni%20per%20la%20consegna),%20(Inserisci%20Informazioni%20per%20la%20consegna)%3E(Gestione%20spedizione),%20(il%20tuo%20Magazzino)%3C(Spedisci),%20[Utente]-(Inserisci%20Informazioni%20per%20la%20consegna),%20[Utente]-(Aggiungi%20Prodotto),%20[Utente]-(Rimuovi%20Prodotto))
 
