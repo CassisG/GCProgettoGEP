@@ -29,6 +29,7 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 - Il sistema deve tenere traccia delle dimensioni e del peso dei prodotti per calcolare correttamente i costi di spedizione
 - Il sistema deve essere in grado di gestire le diverse destinazioni di spedizione, sia nazionali che internazionali
 
-**Diagramma Use Case**
-![diagramma_uuml](http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),[Utente]-(Visualizza Profilo),[Utente]-(Lista Prodotti Ordinati),[Utente]-(Il tuo Magazzino),(Il tuo Magazzino)<(Aggiungi Prodotto),(Il tuo Magazzino)<(Rimuovi Prodotto),[Utente]-(Spedisci)(Spedisci)>(Inserisci data e ora di arrivo),(Inserisci data e ora di arrivo)>(Scegli indirizzo),(Scegli indirizzo)>(Pagare Spedizione))
+**Diagramma Casi d'Uso**
+
+![diagramma_uml](http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),[Utente]-(Visualizza Profilo),[Utente]-(Lista Prodotti Ordinati),[Utente]-(Il tuo Magazzino),(Il tuo Magazzino)<(Aggiungi Prodotto),(Il tuo Magazzino)<(Rimuovi Prodotto),[Utente]-(Spedisci)(Spedisci)>(Inserisci data e ora di arrivo),(Inserisci data e ora di arrivo)>(Scegli indirizzo),(Scegli indirizzo)>(Pagare Spedizione))
 
