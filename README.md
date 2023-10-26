@@ -32,5 +32,5 @@ ad una data (e ora) prestabilita, permettendo di risparmiare sui costi di spediz
 
 **Diagramma Casi d'Uso**
 
-![diagramma_uml](http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),[Utente]-(Visualizza Profilo),[Utente]-(Lista Prodotti Ordinati),[Utente]-(Il tuo Magazzino),(Il tuo Magazzino)<(Aggiungi Prodotto),(Il tuo Magazzino)<(Rimuovi Prodotto),[Utente]-(Spedisci)(Spedisci)>(Inserisci data e ora di arrivo),(Inserisci data e ora di arrivo)>(Scegli indirizzo),(Scegli indirizzo)>(Pagare Spedizione))
+![diagramma_uml](http://yuml.me/diagram/scruffy/usecase/[Utente]-(Accesso),[Utente]-(Visualizza Profilo),[Utente]-(Lista Prodotti Ordinati),[Utente]-(Il tuo Magazzino),(Il tuo Magazzino)<(Aggiungi Prodotto),(Il tuo Magazzino)<(Rimuovi Prodotto),[Utente]-(Spedisci)(Spedisci)>(Inserisci data e ora di arrivo),(Inserisci data e ora di arrivo)>(Scegli indirizzo),(Scegli indirizzo)>(Pagare Spedizione),)
 
