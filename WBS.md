@@ -1,6 +1,6 @@
 # Work Breakdown Structure
 **1. Pianificazione e Analisi**
-  1.1 Ricerca di Mercato e Analisi della Domanda;
+  1.1 Ricerca di Mercato e Analisi della Domanda <br>
   1.2 Definizione dei Requisiti del Servizio ShippingZERO
   1.3 Stesura del Piano di Progetto e Calendario delle Attività
 **2. Sviluppo dell'Applicazione Software**
